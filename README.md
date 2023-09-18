@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm Abdulfatai Yakub, and I'm delighted to welcome you to my README profile. This is where you can learn a bit more about me, my interests, and the projects I'm passionate about. So, let's dive in!
 
-##**About Me**
+## **About Me**
 I'm Abdulfatai Yakub, a full stack developer based in Lagos, Nigeria. With a deep passion for all things tech, I've dedicated my professional life to creating innovative solutions and building amazing digital experiences. I'm known for my expertise in both front-end and back-end development, and I'm always eager to explore new horizons and challenges.
 
-##What I Do
+## What I Do
 I specialize in full stack web development. Whether it's crafting responsive user interfaces, architecting robust server-side applications, or diving into databases, I'm dedicated to delivering high-quality, efficient, and user-friendly software solutions.
 
 ## Let's Connect
