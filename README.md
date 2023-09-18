@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello there! 👋 I'm Abdulfatai Yakub, and I'm delighted to welcome you to my README profile. This is where you can learn a bit more about me, my interests, and the projects I'm passionate about. So, let's dive in!
 <!--
 **Waptech07/Waptech07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
